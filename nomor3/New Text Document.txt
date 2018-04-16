@@ -1,0 +1,14 @@
+<html>
+
+	<head>
+		<title>Tugas Modul06</title>
+	</head>
+
+	<body>
+		<h1>No 3 B</h1>
+		Untuk hasil silahkan buka console!!
+	</body>
+	
+	<script src="3B.js"></script>
+
+</html>
